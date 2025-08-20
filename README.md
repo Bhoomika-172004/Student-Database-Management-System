@@ -24,12 +24,15 @@ Student-Database-Management-System/
 1. Clone this repository:  
    git clone https://github.com/Bhoomika172004/Student-Database-Management-System.git
 cd Student-Database-Management-System
+
 2. Install dependencies:
    pip install mysql-connector-python
+   
 3.Import database.sql into MySQL:
    source database.sql;
+   
 4.Run the Python file:
-python main.py
+   python main.py
 
 
 
